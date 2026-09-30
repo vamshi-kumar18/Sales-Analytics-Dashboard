@@ -26,13 +26,6 @@
 This interactive Power BI report monitors **sales performance and business trends** in one place. It combines KPI cards with year-over-year comparisons, monthly trends, category, channel and regional analysis, salesperson and product performance, and a short management insights panel.
 
 **Reporting period:** 2024
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](assets/dashboard.jpeg)
-
 ---
 
 ## 📊 Headline Numbers
